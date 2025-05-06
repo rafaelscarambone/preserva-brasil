@@ -83,13 +83,13 @@ const Footer: React.FC = () => {
               <li className="flex items-start">
                 <MapPin className="w-5 h-5 text-forest-green mt-1 mr-3" />
                 <span className="text-gray-300">
-                  Av. Paulista, 1578<br />
-                  São Paulo, SP, 01310-200
+                  Rua da República, 1338<br />
+                  Taquaritinga, SP, 15900-011
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone className="w-5 h-5 text-forest-green mr-3" />
-                <span className="text-gray-300">(11) 3333-4444</span>
+                <span className="text-gray-300">(16) 98102-0035</span>
               </li>
               <li className="flex items-center">
                 <Mail className="w-5 h-5 text-forest-green mr-3" />
