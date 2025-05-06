@@ -57,7 +57,7 @@ const ContactPage: React.FC = () => {
       <section className="pt-24 pb-12 bg-earth-brown text-white">
         <div className="container-custom">
           <div className="max-w-3xl">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">Entre em Contato</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6">Entre em Contato</h1><h3>(Rafael Scarambone Muniz)</h3><br />
             <p className="text-xl opacity-90">
               Dúvidas, sugestões ou interesse em parcerias? Entre em contato conosco. 
               Estamos à disposição para atendê-lo.
@@ -94,7 +94,7 @@ const ContactPage: React.FC = () => {
                 href="tel:+551133334444" 
                 className="text-forest-green font-medium hover:underline"
               >
-                (11) 3333-4444
+                (16) 98102-0035
               </a>
             </div>
             
@@ -105,8 +105,8 @@ const ContactPage: React.FC = () => {
               <h3 className="text-lg font-bold mb-2">Endereço</h3>
               <p className="text-gray-600 mb-2">Visite nosso escritório:</p>
               <address className="not-italic text-forest-green font-medium">
-                Av. Paulista, 1578<br />
-                São Paulo, SP, 01310-200
+                Rua da República, 1338<br />
+                Taquaritinga, SP
               </address>
             </div>
           </div>
@@ -287,7 +287,7 @@ const ContactPage: React.FC = () => {
           <h2 className="text-3xl font-bold mb-8 text-center">Nossa Localização</h2>
           <div className="rounded-lg overflow-hidden shadow-md h-96">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.0982262671386!2d-46.6596851!3d-23.563233299999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c8da0aa315%3A0xd59f9431f2c9776a!2sAv.%20Paulista%2C%201578%20-%20Bela%20Vista%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001310-200!5e0!3m2!1spt-BR!2sbr!4v1635536565710!5m2!1spt-BR!2sbr" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3730.123456789!2d-48.5054539!3d-21.4092634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94b9c123456789ab%3A0xabcdef1234567890!2sRua%20da%20Rep%C3%BAblica%2C%201338%20-%20Vila%20Di%20Santi%2C%20Taquaritinga%20-%20SP%2C%2015906-036!5e0!3m2!1spt-BR!2sbr!4v1610000000000!5m2!1spt-BR!2sbr" 
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 
